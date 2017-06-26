@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_schedule"
+        android:title="@string/programacao"
+        android:icon="@drawable/ic_event"
+        />
+
+    <item
+        android:id="@+id/action_speakers"
+        android:title="@string/palestrantes"
+        android:icon="@drawable/ic_people"
+        />
+
+    <item
+        android:id="@+id/action_info"
+        android:title="@string/informacoes"
+        android:icon="@drawable/ic_info"
+        />
+
+</menu>
